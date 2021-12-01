@@ -2,7 +2,7 @@
     <div class="card bg-white mx-5">
         <div class="row mb-4">
             <div class="col-md-4 col-sm-4 col-xs-4">
-                <div class="footer-text pull-left">
+                <div class="footer-text pull-left"> <!-- ádsgdagsfhdfhdsjd-->
                     <div class="d-flex">
                         <h1 class="font-weight-bold mr-2 px-3" style="color:white; background-color:#FF5403; margin-left: 32px"> HNH </h1>
                         <h1 style="color: #FF5403"> Store</h1>
